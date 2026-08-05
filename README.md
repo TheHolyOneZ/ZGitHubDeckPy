@@ -1,3 +1,7 @@
+> More Projects at https://zsync.eu
+> Tool was previously unreleased 
+
+
 <div align="center">
 
 # ZDECK
