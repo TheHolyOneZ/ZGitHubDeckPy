@@ -1,4 +1,3 @@
-> More Projects at https://zsync.eu
 > Tool was previously unreleased 
 
 
